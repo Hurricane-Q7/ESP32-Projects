@@ -1,8 +1,8 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-#define WIFI_SSID "ESP32"
-#define WIFI_PASSWORD "123456789"
+#define WIFI_SSID "ESP32-PC"
+#define WIFI_PASSWORD "12345678"
 
 #define DEEPSEEK_API_URL "https://api.deepseek.com/chat/completions"
 #define DEEPSEEK_MODEL "deepseek-v4-flash"

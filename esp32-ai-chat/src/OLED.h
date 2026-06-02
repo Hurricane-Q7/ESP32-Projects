@@ -5,8 +5,8 @@
 #include"serial.h"
 
 //定义OLED屏幕的SDA和SCL引脚，根据自己的连接方式进行修改
-#define OLED_SDA_PIN 22
-#define OLED_SCL_PIN 21
+#define OLED_SDA_PIN 21
+#define OLED_SCL_PIN 22
 
 //函数声明
 void oledInit();
